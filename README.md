@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 ¡Hola! Soy Erika Mendoza
 
-<!--
-**erikamendoza12/erikamendoza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Sobre mí
 
-Here are some ideas to get you started:
+- 🎓 Maestra en Ciencias en Bioingeniería y Cómputo Inteligente, con base en Ingeniería Biomédica.
+- 🧠 Interesada en el desarrollo de soluciones con aprendizaje automático, visión por computador y procesamiento de datos.
+- 💻 Experiencia con Python, MATLAB y herramientas para análisis de imágenes médicas.
+- 🌱 Actualmente profundizando y aprendiendo frameworks y bibliotecas relacionados con inteligencia artificial y ciencia de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+- **Lenguajes:** `Python`, `MATLAB`, experiencia previa con `C`, `C++`, `C#`
+- **Entornos y desarrollo:** `VSCode`, `Git`, `GitHub`
+
+---
+
+## 🎓 Formación complementaria
+
+- *Fundamentos de Inteligencia Artificial* – IBM
+- *Machine Learning Onramp* – MathWorks
+- *Introducción a la IA Generativa* – Google Cloud
+- *Introducción a la Minería de Datos* – UC Chile
+
+---
+
+## 🙋‍♀️ Más sobre mí
+
+Me apasiona la inteligencia artificial, el aprendizaje continuo y el diseño de soluciones éticas y funcionales. Estoy comenzando mi camino en el mundo del desarrollo y la investigación computacional, siempre abierta a colaborar, aprender y crecer en comunidad.
+
+---
+
+
+Gracias por visitar mi perfil ✨
